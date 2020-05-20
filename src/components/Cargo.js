@@ -17,7 +17,7 @@ const Cargo=()=>{
     <Navbar collapseOnSelect expand="sm">
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">    
-                <img className="logo" src="./images/w1.png" width="180px" height="80px"/>
+                <img className="logo" src="./images/w1.png" alt="moov" width="180px" height="80px"/>
             <Nav className="mr-auto">    
                 <Link className="nav-link" to='/'>Home</Link>
                 <Link className="nav-link" to='/cargo'>Cargo Delivery</Link>
