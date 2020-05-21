@@ -31,7 +31,7 @@ const Cargo=()=>{
         </Navbar.Collapse>
     </Navbar>
     <div className="row" >
-        <div classname="imgtt  col-sm-12 col-xs-12 col-lg-12 offset-lg-0">
+        <div classname="imgtt col-sm-12 col-xs-12 col-lg-12 offset-lg-0">
             <img className="imgtru" 
                  src="./images/cargo1.jpg"
                  alt="moov"
